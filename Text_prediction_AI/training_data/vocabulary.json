@@ -1,0 +1,12 @@
+{
+    "<PAD>": 0,
+    "<UNK>": 1,
+    "beautiful": 2,
+    "blue": 3,
+    "grass": 4,
+    "green": 5,
+    "is": 6,
+    "ocean": 7,
+    "sky": 8,
+    "the": 9
+}
